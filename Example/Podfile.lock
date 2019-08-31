@@ -1,0 +1,16 @@
+PODS:
+  - XDecimalKit (0.1.0)
+
+DEPENDENCIES:
+  - XDecimalKit (from `../`)
+
+EXTERNAL SOURCES:
+  XDecimalKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDecimalKit: 235c0eb8d3f8e16787ccc5481d89fc595be126fd
+
+PODFILE CHECKSUM: e402ed948b6dba8e54ebdf141d008646895577fd
+
+COCOAPODS: 1.6.1
