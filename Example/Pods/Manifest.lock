@@ -1,5 +1,5 @@
 PODS:
-  - XDecimalKit (0.1.0)
+  - XDecimalKit (0.1.1)
 
 DEPENDENCIES:
   - XDecimalKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XDecimalKit: 235c0eb8d3f8e16787ccc5481d89fc595be126fd
+  XDecimalKit: bb30add8a967d125d8519f275458e2b2b09806c9
 
 PODFILE CHECKSUM: e402ed948b6dba8e54ebdf141d008646895577fd
 

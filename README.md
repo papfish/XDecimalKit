@@ -1,6 +1,6 @@
 # XDecimalKit
 
-[![CI Status](https://img.shields.io/travis/xuliang2015/XDecimalKit.svg?style=flat)](https://travis-ci.org/xuliang2015/XDecimalKit)
+[![CI Status](https://img.shields.io/travis/papfish/XDecimalKit.svg?style=flat)](https://travis-ci.org/papfish/XDecimalKit)
 [![Version](https://img.shields.io/cocoapods/v/XDecimalKit.svg?style=flat)](https://cocoapods.org/pods/XDecimalKit)
 [![License](https://img.shields.io/cocoapods/l/XDecimalKit.svg?style=flat)](https://cocoapods.org/pods/XDecimalKit)
 [![Platform](https://img.shields.io/cocoapods/p/XDecimalKit.svg?style=flat)](https://cocoapods.org/pods/XDecimalKit)
@@ -56,7 +56,7 @@ pod 'XDecimalKit'
 
 ## Author
 
-Leo, liang.xv@qq.com
+liang.xv@qq.com
 
 ## License
 
